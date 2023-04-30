@@ -1,4 +1,4 @@
-# LIFT-ride-sharing-application
+# LIFT-ride-sharing-application(Database Project)
 
 Lift is a ridesharing management company. Vehicles from other companies are hired under Lift. The lift has its own vehicles, own drivers, and own garage. 
 Other companies must pay a percentage of the income of their vehicles as those companies are under Lift and are used as Lift’s vehicles. There are two types 
